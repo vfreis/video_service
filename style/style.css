@@ -78,6 +78,7 @@ header nav a:hover{
     
     cursor: pointer;
     transition: .6s ease;
+    width: fit-content;
 }
 
 .botao:hover{
@@ -89,3 +90,12 @@ header nav a:hover{
 .botao i{
     margin:8px;
 }
+
+.container{
+    margin-left: 20px;
+}
+
+.filme-principal .container{
+    width: 70%;
+}
+/* Wrapper  = envelopar*/
